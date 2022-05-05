@@ -1,4 +1,3 @@
-import cats.Functor
 import cats.data.NonEmptyList
 import cats.parse.Parser as P
 import cats.parse.Rfc5234.digit
